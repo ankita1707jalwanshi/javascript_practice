@@ -1,0 +1,1 @@
+// 6. Write a JavaScript program to determine if a given number is prime or not.
