@@ -1,0 +1,43 @@
+Problem Statement:
+You are tasked with organizing interviews for 100 candidates across 4 interview
+panels. Write a JavaScript program to allocate candidates to interview panels
+according to the following criteria:
+
+Candidates should be assigned to panels sequentially, starting from Panel 1
+to Panel 4.
+
+Display the candidate number and the panel they are assigned to
+Problem Statement:
+
+Write a JavaScript program to check if a given year is a leap year or not.
+Implement the solution using a while loop.
+
+Problem Statement:
+Write a JavaScript program to find the sum of all prime numbers up to a given
+limit. Use a while loop to iterate through each number and check for primality.
+
+Problem Statement
+Write a JavaScript program to check if a given number is a palindrome number
+or not. Use a while loop to reverse the digits of the number and compare with
+Day 9: Javascript Assignment 2
+the original number.
+
+
+Problem Statement:
+Write a JavaScript program to convert a binary number to its decimal
+equivalent. Use a while loop to process each digit of the binary number.
+
+Problem Statement:
+Write a JavaScript program to convert a decimal number to its binary
+equivalent. Use a while loop to repeatedly divide the decimal number by 2 until
+the quotient becomes zero.
+
+Problem Statement:
+Write a JavaScript program to calculate the number of digits in a given integer.
+The program should tatake any integer as input and calculate the total number of
+digits in that number.
+
+Problem Statement: Switch Case
+Determine Day of the Week: Create a program that takes a number (1 to 7)
+representing a day of the week and uses a switch statement to display the
+corresponding day's name.
